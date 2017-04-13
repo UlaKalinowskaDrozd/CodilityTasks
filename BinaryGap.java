@@ -1,6 +1,7 @@
 /**
  * Created by Urszula Kalinowska-Drozd on 13.04.17.
  */
+
 public class BinaryGap {
     public int Solution(int N){
         int longestBinary = 0;
